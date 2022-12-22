@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as d,a as r}from"./app.27c4e244.js";const u=JSON.parse('{"title":"无缝滚动组件","description":"","frontmatter":{},"headers":[],"relativePath":"docs/compoents/scroll.md"}'),o={name:"docs/compoents/scroll.md"},a=r("",4),s=[a];function c(n,l,_,i,h,p){return d(),e("div",null,s)}const f=t(o,[["render",c]]);export{u as __pageData,f as default};

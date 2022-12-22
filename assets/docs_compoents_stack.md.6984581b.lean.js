@@ -1,0 +1,1 @@
+import{_ as t,c as d,o as e,a as r}from"./app.27c4e244.js";const f=JSON.parse('{"title":"布局组件","description":"","frontmatter":{},"headers":[],"relativePath":"docs/compoents/stack.md"}'),a={name:"docs/compoents/stack.md"},s=r("",5),n=[s];function c(o,i,_,p,h,l){return e(),d("div",null,n)}const u=t(a,[["render",c]]);export{f as __pageData,u as default};

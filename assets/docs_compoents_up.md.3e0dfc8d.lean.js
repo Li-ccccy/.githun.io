@@ -1,0 +1,1 @@
+import{_ as t,c as d,o as e,a as r}from"./app.27c4e244.js";const u=JSON.parse('{"title":"单图上传 / 可裁剪图片上传","description":"","frontmatter":{},"headers":[],"relativePath":"docs/compoents/up.md"}'),a={name:"docs/compoents/up.md"},n=r("",4),o=[n];function s(c,i,_,p,h,m){return e(),d("div",null,o)}const f=t(a,[["render",s]]);export{u as __pageData,f as default};

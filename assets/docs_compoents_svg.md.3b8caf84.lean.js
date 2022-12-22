@@ -1,0 +1,1 @@
+import{_ as t,c as s,o as e,a}from"./app.27c4e244.js";const v=JSON.parse('{"title":"Svg 组件","description":"","frontmatter":{},"headers":[],"relativePath":"docs/compoents/svg.md"}'),n={name:"docs/compoents/svg.md"},o=a("",6),c=[o];function r(d,p,i,l,_,h){return e(),s("div",null,c)}const m=t(n,[["render",r]]);export{v as __pageData,m as default};

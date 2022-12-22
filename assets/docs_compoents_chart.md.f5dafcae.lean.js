@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a as d}from"./app.27c4e244.js";const f=JSON.parse('{"title":"图表","description":"","frontmatter":{},"headers":[],"relativePath":"docs/compoents/chart.md"}'),r={name:"docs/compoents/chart.md"},o=d("",3),c=[o];function s(n,_,h,i,p,l){return a(),e("div",null,c)}const b=t(r,[["render",s]]);export{f as __pageData,b as default};

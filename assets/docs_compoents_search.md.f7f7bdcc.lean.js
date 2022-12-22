@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as t}from"./app.27c4e244.js";const i=JSON.parse('{"title":"搜索表单","description":"","frontmatter":{},"headers":[],"relativePath":"docs/compoents/search.md"}'),l={name:"docs/compoents/search.md"},p=t("",5),e=[p];function o(c,r,y,D,F,C){return n(),a("div",null,e)}const A=s(l,[["render",o]]);export{i as __pageData,A as default};

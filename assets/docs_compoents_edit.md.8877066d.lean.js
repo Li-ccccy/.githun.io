@@ -1,0 +1,1 @@
+import{_ as t,c as d,o as e,a as r}from"./app.27c4e244.js";const f=JSON.parse('{"title":"富文本编辑器","description":"","frontmatter":{},"headers":[],"relativePath":"docs/compoents/edit.md"}'),o={name:"docs/compoents/edit.md"},a=r("",4),n=[a];function c(i,s,_,h,l,p){return e(),d("div",null,n)}const b=t(o,[["render",c]]);export{f as __pageData,b as default};

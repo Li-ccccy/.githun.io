@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as d,a}from"./app.27c4e244.js";const b=JSON.parse('{"title":"可编辑表格","description":"","frontmatter":{},"headers":[],"relativePath":"docs/compoents/edittab.md"}'),o={name:"docs/compoents/edittab.md"},r=a("",3),s=[r];function n(c,_,i,h,p,l){return d(),e("div",null,s)}const f=t(o,[["render",n]]);export{b as __pageData,f as default};
